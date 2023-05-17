@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 03197ab5b1ffd9e458100dcf6fa8f64b
+  - enabled: 1
+    path: Assets/Scenes/Level_01.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Level_02.unity
+    guid: 16b96cb8ea79e204290e5de198914428
+  - enabled: 1
+    path: Assets/Scenes/Level_03.unity
+    guid: 005aad245e65b034889f6661720cd529
+  - enabled: 1
+    path: Assets/Scenes/Level_04.unity
+    guid: ab4010d44690a4c4a83cc8b8153a8a3f
+  - enabled: 1
+    path: Assets/Scenes/Level_05.unity
+    guid: 234d0580f9636d14cb18986ac15015c3
+  - enabled: 1
+    path: Assets/Scenes/Level_06.unity
+    guid: 0fbdcec55aaaa6f4dae5a602e5a1f846
+  - enabled: 1
+    path: Assets/Scenes/Level_07.unity
+    guid: db91ff9e89da1554ca2e830c370f7f49
+  - enabled: 1
+    path: Assets/Scenes/Level_08.unity
+    guid: bcacfa859a4f6634cb5bc468fa2e0a93
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: bc1d5008f549cdf48a52df2cd1deb758
+  - enabled: 1
+    path: Assets/Scenes/GameUI.unity
+    guid: 13cfaf36d3fef3044bde720cca87e90a
+  - enabled: 1
+    path: Assets/Scenes/GameCamera.unity
+    guid: d70ca34715dab514ab4143294e6f030d
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 58eb866074a2a394b8d3111f6e9d9733
+  m_configObjects: {}

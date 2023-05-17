@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcce157bfa8aa7a4182223a21b90fc69, type: 3}
+  m_Name: AudioClipsSO
+  m_EditorClassIdentifier: 
+  playerJumpSound: {fileID: 8300000, guid: dfb309c8578f2ed488cb076e57daae68, type: 3}
+  playerLandSound: {fileID: 8300000, guid: 16a99d9d26079314ebbded457124e62d, type: 3}
+  playerWalkSound: {fileID: 8300000, guid: bb413fb97a425984da051f9201a1b284, type: 3}
+  playerHurtSound: {fileID: 8300000, guid: a8bbd99f8e17e8045bbbc53051535a1d, type: 3}
+  pickUpKeySound: {fileID: 8300000, guid: 5d9473262d7970e43a113cc243d1b853, type: 3}
+  pickUpCoinSound: {fileID: 8300000, guid: b5bdca2fb4a71d14ba21abe639e8ea43, type: 3}
+  leverOnSound: {fileID: 8300000, guid: 2f5107181983238448b972e88363c1e1, type: 3}
+  leverOffSound: {fileID: 8300000, guid: afa81e1fede5ab040bd707bca00b044c, type: 3}
+  jumpPadSound: {fileID: 8300000, guid: 537180bc340790142baaed5ad16a8e2e, type: 3}
+  disappearingPlatformSound_Disappear: {fileID: 8300000, guid: 7095378fd9717c144adf29b3446e461f, type: 3}
+  disappearingPlatformSound_Activate: {fileID: 8300000, guid: a26e0a445f16ff342b38cde04fb264d4, type: 3}
+  enemyExplosionSound: {fileID: 8300000, guid: 27f09a3b5e20ca746a2bc195260abe4a, type: 3}
+  nextLevel: {fileID: 8300000, guid: 0ec8bd5c84023904d823c8376902c2d9, type: 3}
+  selectSound: {fileID: 8300000, guid: 0bd90d4807cd19b4080ea0be0e03065c, type: 3}
+  menuMusic: {fileID: 8300000, guid: 1b63c3baf818f5846a9d0d273a8304da, type: 3}
+  gameMusic: {fileID: 8300000, guid: 750be3248c34fd04da905307bdc81f1b, type: 3}
